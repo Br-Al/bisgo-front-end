@@ -1,4 +1,13 @@
 # Shop
+`npm install`
+
+## add ng-bootstrap
+`ng add @ng-bootstrap/ng-bootstrap`
+
+## add material.angular
+
+Nb: choose the custum scss.
+`ng add @angular/material`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
